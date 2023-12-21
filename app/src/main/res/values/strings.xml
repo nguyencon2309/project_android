@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KanjiDict</string>
+    <string-array name="level">
+        <item>N5</item>
+        <item>N4</item>
+        <item>N3</item>
+        <item>N2</item>
+        <item>N1</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
